@@ -1,0 +1,14 @@
+﻿
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.
+Le fichier se trouve à C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog.
+
+La phase d'installation est terminée et la phase de validation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.
+Le fichier se trouve à C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog.
+
+La phase de validation est terminée.
+
+L'installation traitée avec transaction est terminée.

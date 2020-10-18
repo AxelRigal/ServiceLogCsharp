@@ -1,0 +1,10 @@
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csprojAssemblyReference.cache
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.Service1.resources
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+C:\Users\Axel\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb

@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+   logfile = C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+   logfile = C:\Users\Axel\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
